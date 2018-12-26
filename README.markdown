@@ -181,5 +181,3 @@ To learn more, see the following resources:
 Thank you for working through this tutorial. Feedback and pull requests are welcome.
 
 [Dean Wampler](mailto:dean.wampler@lightbend.com)
-
-added text for webhook checking
