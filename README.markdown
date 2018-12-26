@@ -182,5 +182,3 @@ Thank you for working through this tutorial. Feedback and pull requests are welc
 
 [Dean Wampler](mailto:dean.wampler@lightbend.com)
 
-
-added text for webhook test
