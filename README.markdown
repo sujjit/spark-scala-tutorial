@@ -1,4 +1,4 @@
-webhook working fine with ngrok token and ngrok closed
+webhook working fine with ngrok token and ngrok
 
 # Apache Spark Scala Tutorial - README
 
